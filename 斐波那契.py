@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[6]:
 
 
 def Fibonacci(n):
@@ -14,13 +13,10 @@ def Fibonacci(n):
     print(lis)
 
 
-# In[7]:
-
-
 Fibonacci(5)
 
 
-# In[ ]:
+
 
 
 
